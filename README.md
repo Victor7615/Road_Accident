@@ -23,13 +23,13 @@ The Road Accident Dashboard is a data visualization project aimed at providing i
    git clone https://github.com/your-username/road-accident-dashboard.git
    ```
 
-2. Open the `index.html` file in a web browser or import the `.twb` file into Tableau Desktop to explore the dashboard.
+2. Open the link [Dashboard](https://public.tableau.com/authoring/RoadAccidentDashboard_16978173789330/Dashboard1#1) .
 
 3. Customize the dashboard by updating data sources or adding new visualizations as needed.
 
 ## Dashboard Link
 
-Here is the Link to the Dashboard[Dashboard](https://public.tableau.com/authoring/RoadAccidentDashboard_16978173789330/Dashboard1#1).
+Here is the Link to the Dashboard [Dashboard](https://public.tableau.com/authoring/RoadAccidentDashboard_16978173789330/Dashboard1#1).
 
 ## Credits
 
