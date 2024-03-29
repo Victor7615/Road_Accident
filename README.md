@@ -13,7 +13,6 @@ The Road Accident Dashboard is a data visualization project aimed at providing i
 
 - **Trend Analysis:** Track trends in accidents, serious casualties, and fatalities over time using sparklines, enabling stakeholders to identify patterns and make data-driven decisions.
 
-- **Data Transparency:** Documented data sources and methodologies ensure transparency and accountability in the analysis, fostering trust among users and stakeholders.
 
 ## Usage
 
@@ -35,7 +34,4 @@ Here is the Link to the Dashboard [Dashboard](https://public.tableau.com/authori
 
 - **Tableau Public:** Used to design and develop the interactive dashboard.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
