@@ -1,7 +1,3 @@
-# Road_Accident
-Certainly! Below is a sample README file for the Road Accident Dashboard project to upload on GitHub:
-
----
 
 # Road Accident Dashboard
 
