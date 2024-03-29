@@ -1,7 +1,7 @@
 
 # Road Accident Dashboard
 
-![Road Accident Dashboard Preview](dashboard_preview.png)
+![Road Accident Dashboard Preview](dashboard_preview.PNG)
 
 ## Overview
 
